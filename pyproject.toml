@@ -1,0 +1,12 @@
+[project]
+name = "birefringence-model"
+version = "0.1.0"
+description = "Code of model for paper"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "colour-science>=0.4.6",
+    "matplotlib>=3.10.6",
+    "numpy>=2.3.3",
+    "sympy>=1.14.0",
+]
